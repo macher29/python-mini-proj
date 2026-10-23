@@ -1,2 +1,2 @@
 # python-mini-proj
-in these files i have made some mini projects while learning my first prograaming language (python)
+<h1>in these files i have made some mini projects while learning my first programming language (python) <h1>
